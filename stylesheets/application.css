@@ -548,7 +548,7 @@ code {
 }
 
 #top-menu {
-  background: #2d2d2d;
+  background: #009ab1;
   height: auto;
   *zoom: 1;
   border-bottom: 1px solid #393939;
@@ -572,7 +572,7 @@ code {
 #header {
   height: auto;
   min-height: 4em;
-  background: #202020;
+  background: #006473;
   padding: 14px 17px 0 17px;
 }
 #header > h1,
@@ -594,7 +594,7 @@ code {
   margin-left: 8px;
 }
 #quick-search input {
-  background: #2d2d2d;
+  background: #009ab1;
   border: none;
   color: #FFF;
   padding: 0px 6px;
@@ -619,7 +619,7 @@ code {
 }
 #main-menu li a {
   font-weight: 300;
-  border-top: 3px solid #202020;
+  border-top: 3px solid #006473;
   padding: 4px 15px 7px;
   -moz-transition: border-color 0.5s;
   -o-transition: border-color 0.5s;
